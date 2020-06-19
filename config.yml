@@ -1,13 +1,13 @@
-title: # a name for your Learning Lab course
-tagline: # a short description for your Learning Lab course, displayed on the course catalog
-description: # a longer description for your Learning Lab course, displayed on the course's landing page
+title: My First GitHub Lab Course
+tagline: Lab Course
+description: Details about the course go here
 
 # Repository setup
 # The following section template information for the repository
 # This will be used when the repository is crated for each individual learner
 
 template:
-  name: # the name of the repository when it is created for the learner
+  name: lab-first-course
   repo: # the name of the template repository from which to clone for the learner
 
 # `before` block
